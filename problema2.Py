@@ -45,3 +45,4 @@ for producto in menu:
     )
     
     print(f"{nombre} | Base: {precio} | Final: {precio_final:.0f}")
+
